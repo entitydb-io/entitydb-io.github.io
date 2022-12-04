@@ -1,8 +1,8 @@
 ---
 title: EntityDb.Common.Entities Namespace
-date: 2022-12-04 09:30:51 +00:00
-categories: [test]
-tags: [test]
+date: 2022-12-04 09:57:15 +00:00
+categories: [dotnet]
+tags: []
 ---
 
 Missing Summary Doc!
