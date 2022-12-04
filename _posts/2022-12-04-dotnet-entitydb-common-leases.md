@@ -1,6 +1,6 @@
 ---
 title: EntityDb.Common.Leases Namespace
-date: 2022-12-04 09:19:21 +00:00
+date: 2022-12-04 09:20:52 +00:00
 categories: [test]
 tags: [test]
 ---
@@ -8,4 +8,4 @@ tags: [test]
 # EntityDb.Common.Leases Namespace
 Missing Summary Doc!
 ## Classes
-<table><tr><td><a href='#/posts/dotnet-entitydb-common-leases-lease'>Lease</a></td><td>Missing Summary Doc!</td></tr></table>
+<table><tr><td><!--/posts/dotnet-entitydb-common-leases-lease--><a href='#'>Lease</a></td><td>Missing Summary Doc!</td></tr></table>
