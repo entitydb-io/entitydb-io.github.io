@@ -1,6 +1,6 @@
 ---
 title: EntityDb.Common.Snapshots Namespace
-date: 2022-12-04 08:08:51 +00:00
+date: 2022-12-04 08:44:15 +00:00
 categories: []
 tags: []
 ---
@@ -8,6 +8,6 @@ tags: []
 # EntityDb.Common.Snapshots Namespace
 Missing Summary Doc!
 ## Interfaces
-<table><tr><td><a href='dotnet/entitydb-common-snapshots-isnapshot`1'>ISnapshot&lt;TSnapshot&gt;</a></td><td>
+<table><tr><td><a href='dotnet-entitydb-common-snapshots-isnapshot`1'>ISnapshot&lt;TSnapshot&gt;</a></td><td>
 Indicates that the snapshot is compatible with several EntityDb.Common implementations.
 </td></tr></table>

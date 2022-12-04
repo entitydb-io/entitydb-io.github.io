@@ -1,6 +1,6 @@
 ---
 title: EntityDb.Abstractions.Agents Namespace
-date: 2022-12-04 08:08:51 +00:00
+date: 2022-12-04 08:44:15 +00:00
 categories: []
 tags: []
 ---
@@ -10,11 +10,11 @@ tags: []
 Encapsulates data about actors (the person or system that can execute commands).
 
 ## Interfaces
-<table><tr><td><a href='dotnet/entitydb-abstractions-agents-iagent'>IAgent</a></td><td>
+<table><tr><td><a href='dotnet-entitydb-abstractions-agents-iagent'>IAgent</a></td><td>
 Represents an actor who can interact with transactions.
-</td></tr><tr><td><a href='dotnet/entitydb-abstractions-agents-iagentaccessor'>IAgentAccessor</a></td><td>
-Represents a type that can access an instance of <a href='dotnet/entitydb-abstractions-agents-iagent'>IAgent</a>.
-</td></tr><tr><td><a href='dotnet/entitydb-abstractions-agents-iagentsignatureaugmenter'>IAgentSignatureAugmenter</a></td><td>
+</td></tr><tr><td><a href='dotnet-entitydb-abstractions-agents-iagentaccessor'>IAgentAccessor</a></td><td>
+Represents a type that can access an instance of <a href='dotnet-entitydb-abstractions-agents-iagent'>IAgent</a>.
+</td></tr><tr><td><a href='dotnet-entitydb-abstractions-agents-iagentsignatureaugmenter'>IAgentSignatureAugmenter</a></td><td>
 Represents a type that can augment an agent signature by
 providing additional, application-specific information.
 </td></tr></table>

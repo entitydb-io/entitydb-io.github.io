@@ -1,6 +1,6 @@
 ---
 title: EntityDb.Abstractions.Projections Namespace
-date: 2022-12-04 08:08:51 +00:00
+date: 2022-12-04 08:44:15 +00:00
 categories: []
 tags: []
 ---
@@ -10,7 +10,7 @@ tags: []
 TODO: Add Namespace Description
 
 ## Interfaces
-<table><tr><td><a href='dotnet/entitydb-abstractions-projections-iprojectionrepository`1'>IProjectionRepository&lt;TProjection&gt;</a></td><td>
+<table><tr><td><a href='dotnet-entitydb-abstractions-projections-iprojectionrepository`1'>IProjectionRepository&lt;TProjection&gt;</a></td><td>
 Encapsulates the snapshot repository for a projection.
-</td></tr><tr><td><a href='dotnet/entitydb-abstractions-projections-iprojectionrepositoryfactory`1'>IProjectionRepositoryFactory&lt;TProjection&gt;</a></td><td>
-Represents a type used to create instances of <a href='dotnet/entitydb-abstractions-projections-iprojectionrepository`1'>IProjectionRepository&lt;TProjection&gt;</a></td></tr></table>
+</td></tr><tr><td><a href='dotnet-entitydb-abstractions-projections-iprojectionrepositoryfactory`1'>IProjectionRepositoryFactory&lt;TProjection&gt;</a></td><td>
+Represents a type used to create instances of <a href='dotnet-entitydb-abstractions-projections-iprojectionrepository`1'>IProjectionRepository&lt;TProjection&gt;</a></td></tr></table>
