@@ -1,6 +1,6 @@
 ---
 title: EntityDb.Abstractions.Annotations Namespace
-date: 2022-12-04 09:11:33 +00:00
+date: 2022-12-04 09:19:21 +00:00
 categories: [test]
 tags: [test]
 ---
@@ -10,11 +10,11 @@ tags: [test]
 TODO: Add Namespace Description
 
 ## Interfaces
-<table><tr><td><a href='dotnet-entitydb-abstractions-annotations-ientitiesannotation`1'>IEntitiesAnnotation&lt;TData&gt;</a></td><td>
+<table><tr><td><a href='#/posts/dotnet-entitydb-abstractions-annotations-ientitiesannotation`1'>IEntitiesAnnotation&lt;TData&gt;</a></td><td>
 Represents data for multiple entities that have already been committed, along with relevant information not
 contained
 in the data.
-</td></tr><tr><td><a href='dotnet-entitydb-abstractions-annotations-ientityannotation`1'>IEntityAnnotation&lt;TData&gt;</a></td><td>
+</td></tr><tr><td><a href='#/posts/dotnet-entitydb-abstractions-annotations-ientityannotation`1'>IEntityAnnotation&lt;TData&gt;</a></td><td>
 Represents data for a single entity that has already been committed, along with relevant information not contained
 in the data.
 </td></tr></table>

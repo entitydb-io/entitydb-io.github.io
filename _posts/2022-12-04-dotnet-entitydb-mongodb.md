@@ -1,6 +1,6 @@
 ---
 title: EntityDb.MongoDb Assembly
-date: 2022-12-04 09:11:33 +00:00
+date: 2022-12-04 09:19:21 +00:00
 categories: [test]
 tags: [test]
 ---
@@ -11,4 +11,4 @@ tags: [test]
 dotnet add package EntityDb.MongoDb
 ```
 ## Namespaces
-<table><tr><td><a href='dotnet-entitydb-mongodb-extensions'>EntityDb.MongoDb.Extensions</a></td><td>Missing Summary Doc!</td></tr><tr><td><a href='dotnet-entitydb-mongodb-queries'>EntityDb.MongoDb.Queries</a></td><td>Missing Summary Doc!</td></tr><tr><td><a href='dotnet-entitydb-mongodb-sessions'>EntityDb.MongoDb.Sessions</a></td><td>Missing Summary Doc!</td></tr></table>
+<table><tr><td><a href='/posts/dotnet-entitydb-mongodb-extensions'>EntityDb.MongoDb.Extensions</a></td><td>Missing Summary Doc!</td></tr><tr><td><a href='/posts/dotnet-entitydb-mongodb-queries'>EntityDb.MongoDb.Queries</a></td><td>Missing Summary Doc!</td></tr><tr><td><a href='/posts/dotnet-entitydb-mongodb-sessions'>EntityDb.MongoDb.Sessions</a></td><td>Missing Summary Doc!</td></tr></table>

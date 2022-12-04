@@ -1,6 +1,6 @@
 ---
 title: EntityDb.InMemory Assembly
-date: 2022-12-04 09:11:33 +00:00
+date: 2022-12-04 09:19:21 +00:00
 categories: [test]
 tags: [test]
 ---
@@ -11,4 +11,4 @@ tags: [test]
 dotnet add package EntityDb.InMemory
 ```
 ## Namespaces
-<table><tr><td><a href='dotnet-entitydb-inmemory-extensions'>EntityDb.InMemory.Extensions</a></td><td>Missing Summary Doc!</td></tr><tr><td><a href='dotnet-entitydb-inmemory-sessions'>EntityDb.InMemory.Sessions</a></td><td>Missing Summary Doc!</td></tr></table>
+<table><tr><td><a href='/posts/dotnet-entitydb-inmemory-extensions'>EntityDb.InMemory.Extensions</a></td><td>Missing Summary Doc!</td></tr><tr><td><a href='/posts/dotnet-entitydb-inmemory-sessions'>EntityDb.InMemory.Sessions</a></td><td>Missing Summary Doc!</td></tr></table>
