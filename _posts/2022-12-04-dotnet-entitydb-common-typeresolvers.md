@@ -1,11 +1,10 @@
 ---
 title: EntityDb.Common.TypeResolvers Namespace
-date: 2022-12-04 09:20:52 +00:00
+date: 2022-12-04 09:30:51 +00:00
 categories: [test]
 tags: [test]
 ---
 
-# EntityDb.Common.TypeResolvers Namespace
 Missing Summary Doc!
 ## Interfaces
 <table><tr><td><!--/posts/dotnet-entitydb-common-typeresolvers-ipartialtyperesolver--><a href='#'>IPartialTypeResolver</a></td><td>

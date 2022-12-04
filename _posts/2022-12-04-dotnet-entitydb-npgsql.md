@@ -1,11 +1,10 @@
 ---
 title: EntityDb.Npgsql Assembly
-date: 2022-12-04 09:20:52 +00:00
+date: 2022-12-04 09:30:51 +00:00
 categories: [test]
 tags: [test]
 ---
 
-# EntityDb.Npgsql Assembly
 ## Installation
 ```sh
 dotnet add package EntityDb.Npgsql

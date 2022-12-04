@@ -1,11 +1,10 @@
 ---
 title: EntityDb.Abstractions.ValueObjects Namespace
-date: 2022-12-04 09:20:52 +00:00
+date: 2022-12-04 09:30:51 +00:00
 categories: [test]
 tags: [test]
 ---
 
-# EntityDb.Abstractions.ValueObjects Namespace
 
 TODO: Add Namespace Description
 

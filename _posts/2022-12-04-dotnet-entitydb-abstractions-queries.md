@@ -1,11 +1,10 @@
 ---
 title: EntityDb.Abstractions.Queries Namespace
-date: 2022-12-04 09:20:52 +00:00
+date: 2022-12-04 09:30:51 +00:00
 categories: [test]
 tags: [test]
 ---
 
-# EntityDb.Abstractions.Queries Namespace
 
 TODO: Add Namespace Description
 

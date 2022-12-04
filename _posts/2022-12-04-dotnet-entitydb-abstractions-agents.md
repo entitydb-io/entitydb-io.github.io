@@ -1,11 +1,10 @@
 ---
 title: EntityDb.Abstractions.Agents Namespace
-date: 2022-12-04 09:20:52 +00:00
+date: 2022-12-04 09:30:51 +00:00
 categories: [test]
 tags: [test]
 ---
 
-# EntityDb.Abstractions.Agents Namespace
 
 Encapsulates data about actors (the person or system that can execute commands).
 
