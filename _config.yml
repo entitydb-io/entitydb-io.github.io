@@ -2,26 +2,18 @@ theme: jekyll-theme-chirpy
 baseurl: ''
 lang: en
 timezone: America/Los_Angeles
-
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# ↓ --------------------------
-
-title: EntityDb
-
+title: EntityDb Documentation
 tagline: Documentation for EntityDb
-
 description: >-
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
-
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+  The documentation website for EntityDb, which provides abstractions, implementations, and extensions
+  of data modeling patterns such as CQRS and event-sourcing. EntityDb handles the database layer so that
+  developers can focus on state of their application and how it changes over time.
 url: 'https://entitydb.io'
-
 github:
-  username: github_username             # change to your github username
-
+  username: entitydb-io
 social:
   name: EntityDb
-  email: the.avid.engineer@outlook.com
+  email: help@entitydb.io
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
@@ -36,7 +28,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id:                 # fill in your Google Analytics ID
+  id: G-KSQEQ6NZT1
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -83,7 +75,6 @@ assets:
 
 pwa:
   enabled: true   # the option for PWA feature
-
 paginate: 10
 
 # ------------ The following options are not recommended to be modified ------------------
